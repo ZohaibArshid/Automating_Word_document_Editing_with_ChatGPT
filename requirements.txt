@@ -1,0 +1,7 @@
+langchain
+openai
+regex
+python-docx
+openpyxl
+flask==2.3.2
+-e .
